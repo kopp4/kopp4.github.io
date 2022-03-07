@@ -1,0 +1,15 @@
+p {
+    color: khaki;
+}
+body {
+    background-color: darkslategray;
+}
+
+h1 {
+    color: red;
+}
+
+p {
+    color: brown;
+    /*align-content: center; THIS IS WRONG!! */
+}
