@@ -65,7 +65,6 @@ main article p {
 }
 
 main article img {
-    border-radius: 0;
     padding: 1px;
     border: 1px solid #ccc;
     float: right;
