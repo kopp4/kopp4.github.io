@@ -1,6 +1,7 @@
 ---
 title: 7 things cured my procrastination from yt
 date: 2022-01-25 20:34:15
+published: true
 tags:
 - life hack
 ---
