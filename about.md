@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-CS undergraduate.
+[Github](https://github.com/kopp4)
